@@ -13,7 +13,7 @@ Blogspot là dịch vụ tạo blog miễn phí hàng đầu của Google. Chín
 
 Bạn vào [www.blogger.com/](http://www.blogger.com/) click Get Started để đăng ký:
 
-<img src="http://kiemtientrenmang.org/wp-content/uploads/2011/08/blogspot1.png" style="float:middle" />
+<img src="http://kiemtientrenmang.org/wp-content/uploads/2011/08/blogspot1.png" style="float:middle" width="750" height="510"/>
 
 Tiếp theo điền đầy đủ các thông tin:
 
@@ -35,7 +35,7 @@ Bạn vào [www.blogspot-templates.net/](http://www.blogspot-templates.net/) đ�
 Sau khi chọn được template ưng ý bạn tiến hành download và giải nén. Tại giao diện của blogspot bạn click Thiết kế – Chỉnh sửa HTML – Browse để tiến hành upload file XML đã giải nén được.
 Sau đó bạn sẽ có 1 site hoàn toàn đẹp mắt, VD đây là 1 site blogspot demo: [www.lamvieconline.org](http://www.lamvieconline.org)
 
-## Bươc 3: Add tên miền riêng (nếu có) của bạn vào blog
+## Bước 3: Add tên miền riêng (nếu có) của bạn vào blog
 
 Như ví dụ [www.lamvieconline.org](http://www.lamvieconline.org) ở trên, để add tên miền riêng vào blogspot cũng đơn giản không kém. Bạn chỉ cần trỏ tên miền của mình như sau:
 Tạo các A record trỏ với các IP:

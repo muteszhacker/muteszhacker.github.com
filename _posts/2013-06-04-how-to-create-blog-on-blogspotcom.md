@@ -13,7 +13,7 @@ Blogspot là dịch vụ tạo blog miễn phí hàng đầu của Google. Chín
 
 Bạn vào [www.blogger.com/](http://www.blogger.com/) click Get Started để đăng ký:
 
-<img src="http://kiemtientrenmang.org/wp-content/uploads/2011/08/blogspot1.png" style="float:middle" />
+<img src="http://kiemtientrenmang.org/wp-content/uploads/2011/08/blogspot1.png" style="float:middle" width="750" height="445"/>
 
 Tiếp theo điền đầy đủ các thông tin:
 
